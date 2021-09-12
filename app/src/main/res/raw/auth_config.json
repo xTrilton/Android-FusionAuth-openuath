@@ -3,7 +3,7 @@
   "redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
   "end_session_redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
   "authorization_scope": "openid email profile",
-  "discovery_uri": "",
+  "discovery_uri": "http://localhost:9011/.well-known/openid-configuration/45117775-d8ee-a0e6-65cb-5c837534a20e",
   "authorization_endpoint_uri": "",
   "token_endpoint_uri": "",
   "registration_endpoint_uri": "",
