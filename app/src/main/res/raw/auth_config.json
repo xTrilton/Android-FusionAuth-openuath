@@ -1,5 +1,5 @@
 {
-  "client_id": "",
+  "client_id": "00000000-0000-0000-0000-0000499602d2",
   "redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
   "end_session_redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
   "authorization_scope": "openid email profile",
